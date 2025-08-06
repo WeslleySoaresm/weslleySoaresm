@@ -7,7 +7,7 @@
 </div>
 
 ----
-👨‍💻 ### Sobre Mim
+👨‍💻 Sobre Mim
 🎓 Graduando em Engenharia de Software no [Infnet](https://faculdadeinfnet.com.br/faculdade/engenharia-de-software/)
 
 💡 Tenho interesse em desenvolvimento de software e estou sempre aprofundando meus conhecimentos em tecnologias de Backend e Frontend.
