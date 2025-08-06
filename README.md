@@ -7,9 +7,16 @@
 </div>
 
 ----
-- 👋 Olá! Sou Weslley Soares, um estudante de Engenharia de Software, Inglês, e algumas linguagens de programção por conta.  <br>
-- 👨‍🎓 Graduando em Engenharia De Software [Infnet](https://faculdadeinfnet.com.br/faculdade/engenharia-de-software/)<br>
-- 🌎 Lisboa - Portugal 
+👨‍💻 ### Sobre Mim
+🎓 Graduando em Engenharia de Software no [Infnet](https://faculdadeinfnet.com.br/faculdade/engenharia-de-software/)
+
+💡 Tenho interesse em desenvolvimento de software e estou sempre aprofundando meus conhecimentos em tecnologias de Backend e Frontend.
+
+🌎 Moro em Lisboa, Portugal.
+
+💬 Fique à vontade para explorar meus projetos e entrar em contato!
+
+
 ----
 <div>
 <h3 align="center"> Linguagem e Ferramentas </h3>
